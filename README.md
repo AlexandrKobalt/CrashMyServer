@@ -4,7 +4,7 @@ Stress testing for HTTP server
 1. Setup postRequest.json
 2. Setup targeter
 3. go run main.go
-# Other preferences
+## Other preferences
 - Duration
 - Freq
 - Output
